@@ -40,8 +40,34 @@
     margin-bottom: -10px;
 }
 
+/* FORMACIÓN */
+#formacion {
+    padding-top: 80px;
+    padding-bottom: 65px;
+}
+
+/* CONSULTORIA */
+#consultoria {
+    padding-top: 80px;
+    padding-bottom: 65px;
+}
+
+#consultoria .about-text{
+    margin-bottom: 2em;
+}
+
+.client{
+    padding: 75px;
+    height: 100px;
+    margin-bottom: 3em;
+}
+
 /* TEAM */
 #our-history{
     padding-top: 60px;
     padding-bottom: 60px;
+}
+
+#logo-dark:hover{
+    /* opacity: 1; */
 }
