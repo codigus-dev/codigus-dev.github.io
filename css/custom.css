@@ -1,0 +1,16 @@
+#quote{
+    padding: 0% !important;
+    height: 30vh !important;
+}
+
+#quote #quote-slider {
+    margin-top: 0px !important;
+}
+
+.red-text{
+    color: #CB0017;
+}
+
+#home-parallax-fullwidth{
+    height: 70vh;
+}
