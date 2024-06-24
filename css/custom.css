@@ -1,3 +1,19 @@
+/* HEADER */
+
+.main-logo{
+    width: 45%;
+    margin-top: -10px;
+    margin-bottom: -30px;
+}
+
+.logo-big{
+    margin-top: -25px !important;
+}
+
+.logo-small{
+    margin-top: -25px !important;
+}
+
 #quote{
     padding: 0% !important;
     height: 30vh !important;
@@ -13,4 +29,13 @@
 
 #home-parallax-fullwidth{
     height: 70vh;
+}
+
+.roman-icon{
+    width: 40px;
+}
+
+.roman-logo{
+    width: 90px;
+    margin-bottom: -10px;
 }
