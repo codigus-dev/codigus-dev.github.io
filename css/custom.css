@@ -29,7 +29,7 @@ a:hover{
         height: 70vh !important;
     }
     .client{
-        padding: 40px;
+        padding: 40px !important;
     }
 }
 
