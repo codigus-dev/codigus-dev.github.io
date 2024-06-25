@@ -1,9 +1,36 @@
+/* GENERAL */
+a:hover{
+    color: #CB0017;
+    text-decoration: underline;
+}
+
 /* HEADER */
 
 .main-logo{
     width: 45%;
     margin-top: -10px;
     margin-bottom: -30px;
+}
+
+@media (min-width: 768px) {
+    #home-parallax-fullwidth{
+        height: 70vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-logo{
+        width: 100%;
+    }
+    #home-parallax-fullwidth{
+        height: 30vh;
+    }
+    #quote{
+        height: 70vh !important;
+    }
+    .client{
+        padding: 40px;
+    }
 }
 
 .logo-big{
@@ -15,8 +42,8 @@
 }
 
 #quote{
-    padding: 0% !important;
-    height: 30vh !important;
+    padding: 0%;
+    height: 30vh;
 }
 
 #quote #quote-slider {
@@ -25,10 +52,6 @@
 
 .red-text{
     color: #CB0017;
-}
-
-#home-parallax-fullwidth{
-    height: 70vh;
 }
 
 .roman-icon{

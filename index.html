@@ -34,7 +34,7 @@
 
     <body>
         <script>
-            var host = 'codeurjc.github.io';
+            var host = 'codigus-software.github.io';
             if (host == window.location.host && window.location.protocol == 'https:') window.location.protocol = 'http';
         </script>
 
@@ -61,7 +61,12 @@
                         <ul class="nav navbar-nav  navbar-right">
                             <li><a class="to-top">Inicio</a></li>
                             <li class="to-section"><a href="#about">Presentación</a></li>
-                            <li class="to-section"><a href="#formacion">Formación</a></li>
+                            <li class="to-section dropdown">
+                                <a href="#formacion">Formación<b class="caret"></b></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="cursosoftwaremantenible/">Curso Software Mantenible</a></li>
+                                </ul>
+                            </li>
                             <li class="to-section"><a href="#consultoria">Consultoria</a></li>
                             <li class="to-section"><a href="#charlas">Charlas</a></li>
                             <li class="to-section"><a href="#team">Equipo</a></li>
@@ -115,26 +120,6 @@
                                     <i class="icon-right ion-quote ion-2x highlight"></i>
                                 </blockquote>
                                 <h4 class="quote-author highlight">Martin Fowler, Refactoring, 2019</h4>
-                            </div>
-                            <div>
-                                <blockquote>
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span>In short, software is eating the world.</span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </blockquote>
-                                <h4 class="quote-author highlight">Marc Andreessen</h4>
-                            </div>
-
-                            <div>
-                                <blockquote>
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span
-                                        >Most good programmers do programming not because they expect to get paid or get
-                                        adulation by the public, but because it is fun to program.</span
-                                    >
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </blockquote>
-                                <h4 class="quote-author highlight">Linus Torvalds</h4>
                             </div>
                         </div>
                     </div>
@@ -449,12 +434,11 @@
                         </div>
     
                         <div class="col-md-12 text-left about-text">
-                            <p class="grey wow fadeInUp">Somos <b>Luis Fernández Muñoz</b> y <b>Micael Gallego Carrillo</b>, por orden de edad!
-                                ambos ligados como estudiantes y profesores a la Universidad Politécnica de Madrid y la Universidad Rey Juan Carlos en el área calidad y procesos de desarrollo software.
+                            <p class="grey wow fadeInUp">Somos <b>Luis Fernández Muñoz</b> y <b>Micael Gallego Carrillo</b>, por orden de edad! ambos ligados como estudiantes y profesores a la Universidad Politécnica de Madrid y la Universidad Rey Juan Carlos en el área calidad y procesos de desarrollo software.
                             </p>
                             <p class="grey wow fadeInUp">Sumamos más de 50 años de experiencia profesional y 25 años colaborando conjunta e intermitente en formación, consultoría y en muchas muchas discusiones.</p>
                             <p class="grey wow fadeInUp">Hemos formado a miles de alumnos en titulaciones universitarias, en títulos propios para empresas, administración pública y plataformas de formación</p>
-                            <p class="grey wow fadeInUp">Acompañamos a más de 20 empresas en consultorías en el desarrollo de sus propios productos y somos autores de productos tecnológicos como airfit (link), Kurento(link) y OpenVidu(link).</p>
+                            <p class="grey wow fadeInUp">Acompañamos a más de 20 empresas en consultorías en el desarrollo de sus propios productos y somos autores de productos tecnológicos como Airfit (FALTA LINK), <a href="https://kurento.openvidu.io/" target="_blank">Kurento</a> y <a href="https://openvidu.io/">OpenVidu</a></p>
                             <p class="grey wow fadeInUp"> Nos complementamos con una visión más teórica, más extrema, más … por parte de Luis (profesor de Micael hace más de 20 años) y más práctica, más equilibrada, más … por parte de Micael (jefe de Luis desde hace más de 5 años). ¡Qué cosas!
                             </p>
                         </div>
