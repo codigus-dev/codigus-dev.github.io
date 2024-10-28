@@ -44,6 +44,10 @@ Table of Contents:
 @import "simple-line-icons.css";
 @import "ionicons.min.css";
 
+:root {
+    --grey-color: #5c5c5c;
+}
+
 /*----- General ----*/
 html, 
 body {
@@ -119,11 +123,15 @@ h4 {
     line-height: 1.5;
 }
 p,ul {
-    color: #7a7a7a;
+    color: var(--grey-color);
 	font-size: 14px;
 	line-height: 20px;
 	font-weight: 400;
 }  
+
+.feature-info li { 
+    margin-top: 15px;     
+}
 
 .section-title {
     text-transform: uppercase;
@@ -143,7 +151,7 @@ p,ul {
     height: 2px; 
     margin: 20px auto 20px;
     width: 115px;  
-    background: #7a7a7a;
+    background: var(--grey-color);
 }
 .subheading.grey:after { 
     background: #fff!important;
@@ -215,7 +223,7 @@ p,ul {
     .lead {
         font-size: 16px;
         font-weight: 400;
-        color: #7a7a7a;
+        color: var(--grey-color);
         margin-bottom: 50px;
     }
     h2 {
@@ -1116,6 +1124,7 @@ nav {
     }
 }
 .feature-info h4 {
+    padding-left: 55px;
     font-family: 'Montserrat',sans-serif;
     font-weight: 700;
     text-transform: uppercase;
@@ -1134,7 +1143,7 @@ nav {
 	float: left;
 }
 .feature-info {
-	padding-left: 55px;
+	/*padding-left: 55px;*/
 	padding-top: 5px;
 }
 .feature-description {
@@ -1147,6 +1156,12 @@ nav {
 }
 .feature-buttons {
     margin-top: 40px;
+}
+
+/*----- Qué? Section -----*/
+#que {
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 /*----- About Section -----*/
@@ -1566,7 +1581,7 @@ blockquote strong {
     text-transform: uppercase;
 }
 .cbp-l-caption-desc {
-    color: #7a7a7a;
+    color: var(--grey-color);
     font: 400 12px/16px sans-serif;
 }
 .cbp-l-filters-alignRight .cbp-filter-counter {
@@ -1633,7 +1648,7 @@ blockquote strong {
 
 .cbp-l-filters-dropdownList .cbp-filter-item {
     background: none;
-    color: #7a7a7a;
+    color: var(--grey-color);
     width: 100%;
     text-align: left;
     font: 12px/40px "Open Sans",sans-serif;
@@ -1644,7 +1659,7 @@ blockquote strong {
     border-top: 1px solid #ccc;
 }
 .cbp-l-filters-dropdownHeader:after {
-    border-color: #7a7a7a rgba(0,0,0,0);
+    border-color: var(--grey-color) rgba(0,0,0,0);
     border-style: solid;
     border-width: 5px 5px 0;
     content: "";
@@ -1784,7 +1799,7 @@ blockquote strong {
     margin-top: 0;
 }
 .project-widget p {
-    color: #7a7a7a!important;
+    color: var(--grey-color)!important;
 }
 /* 
 .cbp-l-grid-fullScreen {
@@ -2320,7 +2335,7 @@ border-bottom:1px dotted #ccc;
     font-size: 22px;
 }
 .contact-details-social li a {
-    color: #7a7a7a;
+    color: var(--grey-color);
 }
 
 /*----- Google maps -----*/
@@ -2875,7 +2890,7 @@ outline-offset: 0;
     margin:60px 0 60px 0;
 }
 .dark-grey {
-    color: #7a7a7a;
+    color: var(--grey-color);
 }
 .shortcode-btns {
     margin-bottom:20px;
