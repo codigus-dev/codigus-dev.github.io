@@ -251,6 +251,11 @@ p,ul {
 .size-2x { font-size:2.5em }
 .size-1x { font-size:1em }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 /*----- Backgrounds ------*/
  
 #home-parallax-fullscreen {
@@ -1160,6 +1165,18 @@ nav {
 
 /*----- Qué? Section -----*/
 #que {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/*----- Por qué? Section -----*/
+#porque {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/*----- Quién? Section -----*/
+#quien {
     padding-top: 60px;
     padding-bottom: 60px;
 }
