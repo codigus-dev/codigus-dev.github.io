@@ -304,7 +304,7 @@ p,ul {
 .parallax-section-8 {
     background-position: 50% 0;
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	width: 100%;
 	height: auto;
@@ -821,7 +821,7 @@ nav {
         margin: 0;
 	}
     .navbar-default .navbar-toggle { 
-        margin-top: 44px;
+        /* margin-top: 44px; */
     }
     .navbar-small .navbar-toggle { 
         margin-top: 11px;
@@ -1335,7 +1335,7 @@ nav {
     margin-top: 20px;
 }
 .member-info h4 {
-    line-height: .6;
+    /* line-height: .6; */
     letter-spacing: -0.6px;
 }
 .member-info h5 {
