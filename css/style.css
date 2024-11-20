@@ -1085,6 +1085,18 @@ nav {
     padding-right: 0;
 }
 
+.course-header{
+    margin-top: 33vh;
+}
+
+@media (max-width: 992px) {
+    .course-header{
+        max-width: 90vw;
+        margin-left: 5vW;
+        margin-right: 5vw;
+    }
+}
+
 /*----- Features -----*/
 #features {
     padding-top: 90px;
