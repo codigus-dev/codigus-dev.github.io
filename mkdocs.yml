@@ -1,0 +1,12 @@
+site_name: Codigus
+site_url: https://codigus.dev/
+site_description: Comunidad de desarrolladores de software
+
+nav:
+  - Home: index.md
+  - Directos:    
+    - Charlas: directos/charlas.md
+    - Excursiones: directos/excursiones.md
+  - Cursos:
+    - Catálogo: cursos/catalogo.md
+    - Curso de Ingeniería del Software: cursos/curso-ingenieria-sw.md
