@@ -10,6 +10,8 @@ Este curso se grabó en la edición 22/23 del [Máster en Cloud Apps de la URJC]
 
 ## Temario
 
+El temario es parte de [Codigus Magnificus](https://github.com/codigus-dev/codigus-magnificus/)
+
 ### Parte 1. Diseño y calidad software
 
 * Lenguaje Unificado de Modelado
@@ -64,8 +66,8 @@ Este curso se grabó en la edición 22/23 del [Máster en Cloud Apps de la URJC]
 
 ### Dominios
 
-* [Master Mind] (https://github.com/codigus-dev/codigus-magnificus/dominios/game-mastermind)
-* [Tic Tac Toe] (https://github.com/codigus-dev/codigus-magnificus/dominios/game-ticTacToe)
+* [Juego Master Mind](https://github.com/codigus-dev/codigus-magnificus/tree/main/dominios/game-mastermind)
+* [Juego Tic Tac Toe](https://github.com/codigus-dev/codigus-magnificus/tree/main/dominios/game-ticTacToe)
 
 ## Vídeos
 
@@ -76,8 +78,8 @@ Aspectos a tener en cuenta al visualizar los vídeos:
 * Todo el material al que hace referencia en los vídeos se puede encontrar en esta página. Si hay alguna documentación que no está disponible [avísanos](mailto:codigus.dev@gmail.com) por favor. 
 * Para acceder a la documentación que sale en el vídeo, sustituye la primera parte de la URL:
     * `C:/Users/setillo/Downloads/3-publicaciones-master/USantaTecla/` por [https://www.codigus.dev/cursos/curso-ingenieria-sw/material](material)
-    * `github.com/USantaTecla-0-domains/` por [https://github.com/codigus-dev/codigus-magnificus/dominios](https://github.com/codigus-dev/codigus-magnificus/dominios)
-    * `github.com/USantaTecla-tech-java/` por [https://github.com/codigus-dev/codigus-magnificus/tecnologias/tech-java](https://github.com/codigus-dev/codigus-magnificus/tech/tech-java)
+    * `github.com/USantaTecla-0-domains/` por [https://github.com/codigus-dev/codigus-magnificus/tree/main/dominios](https://github.com/codigus-dev/codigus-magnificus/tree/main/dominios)
+    * `github.com/USantaTecla-tech-java/` por [https://github.com/codigus-dev/codigus-magnificus/tree/main/tecnologias/tech-java](https://github.com/codigus-dev/codigus-magnificus/tree/main/tecnologias/tech-java)
 * La "Parte 4. Proceso de Desarrollo Software" se corresponde con la asignatura "Programación extrema" del MCA. 
 * Los apuntes de la "Parte 4" podrían estar ligeramente desincronizados con los que aparecen en el vídeo.
 
