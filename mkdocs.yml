@@ -3,10 +3,14 @@ site_url: https://codigus.dev/
 site_description: Comunidad de desarrolladores de software
 
 nav:
-  - Home: index.md
+  - Inicio: index.md
   - Directos:    
     - Charlas: directos/charlas.md
     - Excursiones: directos/excursiones.md
   - Cursos:
     - Catálogo: cursos/catalogo.md
-    - Curso de Ingeniería del Software: cursos/curso-ingenieria-sw.md
+    - Curso de Ingeniería del Software: cursos/curso-ingenieria-sw/index.md
+    - Curso de Codigus Magnificus: cursos/curso-codigus-magnificus/index.md
+
+extra_css:
+  - style.css

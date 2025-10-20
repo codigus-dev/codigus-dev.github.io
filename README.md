@@ -40,7 +40,6 @@ docker run --name=mkdocs-publish --rm -it -u $(id -u):$(id -g) -v $SSH_AUTH_SOCK
     * No tiene iconos
 
 * **Añadir nuevos cursos**    
-    * Codigus magnificus (haciendo referencia al curso de Ingeniería del Software con vídeos)
     * Paradigmas de Programación (En base al material del ordenador de Luis que está en el Drive de codigus)
     * ...
 

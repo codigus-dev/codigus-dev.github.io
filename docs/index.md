@@ -1,3 +1,7 @@
+#
+
+![](img/codigus-isologo-fondoblanco.png)
+
 ## Codigus
 
 ### ¿Por qué?
@@ -26,17 +30,17 @@ Para acompañar y ayudar a los que quieren mejorar en su profesión, empresas, e
 
 En Codigus creemos que hay muchas formas de aprender, por eso hay diferentes formatos:
 
-* Directos: Sesiones semanales online en abierto, de una hora de duración, en las que debatimos y hablamos sobre diversos aspectos y disciplinas de la profesión.
-* Cursos: Mediante videoconferenci, presenciales, con vídeos pregrabados... los que más se adapten a tus necesidades.
+* **Directos**: Sesiones semanales online en abierto, de una hora de duración, en las que debatimos y hablamos sobre diversos aspectos y disciplinas de la profesión. ([Sección de directos](#directos))
+* **Cursos**: Mediante videoconferenci, presenciales, con vídeos pregrabados... los que más se adapten a tus necesidades. ([Sección de cursos](#cursos))
 
 Sobre diversas temáticas que cubren todas las disciplinas del desarrollo software:
 
-* Requisitos: Casos de Uso e Historias de Usuario
-* Análisis y diseño: Principios de Diseño, Patrones de Diseño, Arquitectura del Software y Refactoring
-* Implementación: Java , Javascript y C/C++
-* Pruebas: Unitarias, de Integración y Sistemas
-* Despliegue: Integración, Despliegue y Entrega Continuos, cultura Devops y Microservicios
-* Procesos/Metodologías: Rational Unified Process / Proceso Unificado de Desarrollo con TFD (Test First Development) y Scrum + XP con TDD (Test Driven Development)
+* **Requisitos**: Casos de Uso e Historias de Usuario
+* **Análisis y diseño**: Principios de Diseño, Patrones de Diseño, Arquitectura del Software y Refactoring
+* **Implementación**: Java , Javascript, C/C++...
+* **Pruebas**: Unitarias, de Integración y Sistemas
+* **Despliegue**: Integración, Despliegue y Entrega Continuos, cultura Devops y Microservicios
+* **Proceso de desarrollo**: Rational Unified Process / Proceso Unificado de Desarrollo con TFD (Test First Development) y Scrum + XP con TDD (Test Driven Development)
 
 ### ¿Quién?
 

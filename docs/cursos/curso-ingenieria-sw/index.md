@@ -10,7 +10,7 @@ Este curso se grabó en la edición 22/23 del [Máster en Cloud Apps de la URJC]
 
 ## Temario
 
-El temario es parte de [Codigus Magnificus](https://github.com/codigus-dev/codigus-magnificus/)
+*NOTA: Este temario es un subconjunto del temario completo del [curso de Codigus Magnificus](../curso-codigus-magnificus/)*
 
 ### Parte 1. Diseño y calidad software
 
