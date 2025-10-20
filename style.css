@@ -1,0 +1,18 @@
+:root {
+    --md-primary-fg-color: #aa0000;
+    --md-accent-fg-color: #8a8a8a;
+    --md-primary-bg-color: #ffffff;
+}
+
+.md-typeset h1 {
+    font-weight: bold;
+    color: var(--md-typeset-a-color);
+}
+
+.md-typeset h2 {
+    font-weight: bold;
+}
+
+/* .md-header {
+    background-color: #ffffff;
+} */
