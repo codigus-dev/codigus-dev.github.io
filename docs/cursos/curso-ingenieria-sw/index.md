@@ -88,8 +88,8 @@ Aspectos a tener en cuenta al visualizar los vídeos:
 ### Parte 1. Diseño y calidad software
 
 * Clase 1: [Disponible](https://urjc-my.sharepoint.com/:v:/g/personal/micael_gallego_urjc_es/EaE_9FuPaoVKgf-UqVfvUwkBNoPruasJ24CvOv-Es_XkTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hK6VPg)
-* Clase 2: En preparación
-* Clase 3: En preparación
+* Clase 2: [Disponible](https://urjc-my.sharepoint.com/:v:/g/personal/micael_gallego_urjc_es/EXHqOcZ4BPFBsbD3P5Qq47MBUgxB9-jLtuD7LYa4Kb-MCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=X6RaCR)
+* Clase 3: [Disponible](https://urjc-my.sharepoint.com/:v:/g/personal/micael_gallego_urjc_es/EYsA2kV8j-9MgWGh2lQG9cwBjSSM1tOSZIt6TM5M2IZ5sQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O3LK1e)
 * Clase 4: En preparación
 * Clase 5: En preparación
 * Clase 6: En preparación
